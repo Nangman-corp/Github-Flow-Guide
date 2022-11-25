@@ -345,7 +345,7 @@ Ticket의 제목과 동일하게 작성합니다.
 - UserSignupService Test
 ```
 
-![Untitled](Github%20Flow%20Guide%2037f6f8b4af3e4181b8c787b96b5a45c8/Untitled%201.png)
+![img/description_1](img/description_1.png)
 
 ## 2.5. Pull Request - Code Review 컨벤션
 
