@@ -5,23 +5,29 @@
 
 </aside>
 
-[1. 소개 / 사용 가이드](Github%20Flow%20Guide%2037f6f8b4af3e4181b8c787b96b5a45c8.md)
+---
 
-[1.1 Github Flow](Github%20Flow%20Guide%2037f6f8b4af3e4181b8c787b96b5a45c8.md)
+## 목차
 
-[1.2 작업순서 별 GIT 명령어 가이드](Github%20Flow%20Guide%2037f6f8b4af3e4181b8c787b96b5a45c8.md)
+### [1. 소개 / 사용 가이드](Github%20Flow%20Guide%2037f6f8b4af3e4181b8c787b96b5a45c8.md)
 
-[2. 컨벤션](Github%20Flow%20Guide%2037f6f8b4af3e4181b8c787b96b5a45c8.md)
+- [1.1 Github Flow](Github%20Flow%20Guide%2037f6f8b4af3e4181b8c787b96b5a45c8.md)
 
-[2.1 기능구현 역할 분배](Github%20Flow%20Guide%2037f6f8b4af3e4181b8c787b96b5a45c8.md)
+- [1.2 작업순서 별 GIT 명령어 가이드](Github%20Flow%20Guide%2037f6f8b4af3e4181b8c787b96b5a45c8.md)
 
-[2.2 Feature Branch 네이밍 컨벤션](Github%20Flow%20Guide%2037f6f8b4af3e4181b8c787b96b5a45c8.md)
+### [2. 컨벤션](Github%20Flow%20Guide%2037f6f8b4af3e4181b8c787b96b5a45c8.md)
 
-[2.3 Commit Message 컨벤션](Github%20Flow%20Guide%2037f6f8b4af3e4181b8c787b96b5a45c8.md)
+- [2.1 기능구현 역할 분배](Github%20Flow%20Guide%2037f6f8b4af3e4181b8c787b96b5a45c8.md)
 
-[2.4 Pull Request - Create 컨벤션](Github%20Flow%20Guide%2037f6f8b4af3e4181b8c787b96b5a45c8.md)
+- [2.2 Feature Branch 네이밍 컨벤션](Github%20Flow%20Guide%2037f6f8b4af3e4181b8c787b96b5a45c8.md)
 
-[2.5 Pull Request - Code Review 컨벤션](Github%20Flow%20Guide%2037f6f8b4af3e4181b8c787b96b5a45c8.md)
+- [2.3 Commit Message 컨벤션](Github%20Flow%20Guide%2037f6f8b4af3e4181b8c787b96b5a45c8.md)
+
+- [2.4 Pull Request - Create 컨벤션](Github%20Flow%20Guide%2037f6f8b4af3e4181b8c787b96b5a45c8.md)
+
+- [2.5 Pull Request - Code Review 컨벤션](Github%20Flow%20Guide%2037f6f8b4af3e4181b8c787b96b5a45c8.md)
+
+---
 
 # 1. 소개 / 사용 가이드
 
