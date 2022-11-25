@@ -357,3 +357,8 @@ Ticket의 제목과 동일하게 작성합니다.
 💡 해당 섹션은 내부 회의를 통해 명확한 Rule을 정할 필요가 있습니다.
 
 </aside>
+
+### Contributors
+---
+[박훈성](https://github.com/HunSeongPark)이 작성하였습니다.
+- [Contributors](https://github.com/Nangman-corp/JSON-Value-Style-Guide/graphs/contributors)
