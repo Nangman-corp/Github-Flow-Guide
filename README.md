@@ -5,9 +5,9 @@
 
 </aside>
 
----
-
 ## 목차
+
+---
 
 ### [1. 소개 / 사용 가이드](https://github.com/Nangman-corp/Github-Flow-Guide/blob/main/README.md#1-%EC%86%8C%EA%B0%9C--%EC%82%AC%EC%9A%A9-%EA%B0%80%EC%9D%B4%EB%93%9C-1)
 
