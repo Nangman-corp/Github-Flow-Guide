@@ -41,7 +41,7 @@
 
 협업 간 사용할 Github Flow에 대해 설명합니다.
 
-![Untitled](Github%20Flow%20Guide%2037f6f8b4af3e4181b8c787b96b5a45c8/Untitled.png)
+![img/description](img/description.png)
 
 - Github Flow는 Git flow의 복잡성을 제거한 단순한 방식의 flow 입니다.
 - **main** / **develop** / **feature** branch로 구성됩니다.
